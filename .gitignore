@@ -1,0 +1,20 @@
+# Python / Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Django local settings / database
+db.sqlite3
+media/
+.env
